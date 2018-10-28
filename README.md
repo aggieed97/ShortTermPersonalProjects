@@ -9,4 +9,4 @@ The purpose of this repository is to show some projects that I've worked on, usu
 
 
 
-Key Words: Time Series, SARIMAX, Plotly, Matplotlib, New York Mercantile Exchange, Investing, Avocado, Pandas, Machine Learning, Analysis, Data Science, Oil, Futures
+Key Words: Time Series, SARIMAX, Plotly, Matplotlib, New York Mercantile Exchange, Investing, Avocado, Pandas, Machine Learning, Analysis, Data Science, Oil, Futures, ARIMA
