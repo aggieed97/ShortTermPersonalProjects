@@ -17,7 +17,7 @@ I do have several ideas on different projects I want to work on in the future.  
 4.  Triangular Distribution Post - I'm taking a Supply Chain Analytics class from MIT on the eDX platform, and they introduced the concept of triangular distribution.  This was not something that was taught in my Data Science Bootcamp and not many people seem to be familiar with it in my circle.
 5.  NCAA Basketball - All the football analysis, of course, is basically setting up my predictions for the NCAA Tournament in March...of course!
 6.  Google Maps API - Been meaning to figure out how to use this and incorporate it into the basketball predictions
-7.  Fitbit Data - I'd read a blog post on using Fitbit's API to access your data and analyze it
+7.  Fitbit Data - I'd read a blog post on using Fitbit's API to access your data and analyze it, and I very much want to do the same with my data
 8.  2018 Movie Box Office post concentrating on analysis and visualization.
 
 That's a small handful of the projects that are currently on my wish list of things I'd like to accomplish in the next few weeks/months.
